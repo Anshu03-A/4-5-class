@@ -1,1 +1,2 @@
-# 4-5-class
+# collisionAlgorithm
+Algorithm to detect collision between two objects
